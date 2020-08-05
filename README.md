@@ -39,8 +39,10 @@ https://mms.smartnav.org
   - email: jae519@kaist.ac.kr
 * Youngjin Kim
   - email: jcdad3000@kaist.ac.kr
-* Kyungjun Kim
+* Kyoungjun Park 
   - email: kjpark525@kaist.ac.kr
+* HaeUn Kim
+  - email: hukim@kaist.ac.kr
 
 ## Usage
 First of all, MMS Server including MMS Monitoring Module depends on Ubuntu 16.04, OpenJDK 1.8,   
